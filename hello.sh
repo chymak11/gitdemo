@@ -5,3 +5,4 @@ echo "Welcome to landmark Technologies"
   date 
   echo scripting is automation
   echo "Thanks for coming"
+  echo "you are good"
